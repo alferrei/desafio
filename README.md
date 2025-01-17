@@ -33,3 +33,7 @@ Abaixo seguem exemplos de execução via postman:
 ![Teste com endereço de SP](https://i.imgur.com/2hrSCxZ.png)
 
 ![Teste com endereço de MG](https://i.imgur.com/C6zrZj0.png)
+
+Abaixo também, imagem do banco de dados com os registros já no banco de dados:
+
+![Registros no Postgres](https://i.imgur.com/nV5ROpg.png).
