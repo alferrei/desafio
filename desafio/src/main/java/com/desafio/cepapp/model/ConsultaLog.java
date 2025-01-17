@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 /**
  * Recebe Parametros de Log.
  *
- * @return id, horaLog;
+ * @return id, horaLog, response;
  */
 @Entity
 @Table(name = "consulta_log")

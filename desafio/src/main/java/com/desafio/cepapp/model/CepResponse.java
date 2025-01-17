@@ -1,7 +1,7 @@
 package com.desafio.cepapp.model;
 
 /**
- * Recebe CEP.
+ * Recebe CEP para consulta.
  *
  * @return cep, logradouro, bairro, cidade, uf;
  */

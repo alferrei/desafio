@@ -25,7 +25,7 @@ public class CepActivity {
 
     @Transactional
     public CepResponse buscarCep(String cep) {
-        String url = "http://localhost:8080/api/cep/" + cep; // Mock
+        String url = "http://localhost:8080/api/cep/" + cep;
         CepResponse response = restTemplate.getForObject(url, CepResponse.class);
 
         // Salvar log no banco
