@@ -13,7 +13,7 @@ public class CepResponse {
     private String cidade;
     private String uf;
 
-        public String getCep() {
+    public String getCep() {
         return cep;
     }
 

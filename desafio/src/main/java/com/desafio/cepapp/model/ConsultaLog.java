@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 /**
- * Recebe Parametros de Consulta de Log.
+ * Recebe Parametros de Log.
  *
  * @return id, horaLog;
  */

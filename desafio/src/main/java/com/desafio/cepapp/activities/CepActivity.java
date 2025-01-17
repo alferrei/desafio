@@ -22,7 +22,8 @@ public class CepActivity {
     }
     @Autowired
     private ConsultaLogRepository logRepository;
-@Transactional
+
+    @Transactional
     public CepResponse buscarCep(String cep) {
         String url = "http://localhost:8080/api/cep/" + cep; // Mock
         CepResponse response = restTemplate.getForObject(url, CepResponse.class);
