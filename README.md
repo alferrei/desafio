@@ -30,4 +30,6 @@ Após executar os comandos, valide se há realmente a tabela e suba a aplicaçã
 A partir deste momento, você está livre para testá-la ao tentar acessar a url mockada localhost:8080/api/cep/03333-000 ou localhost:8080/api/cep/01001-000 via postman, browser ou curl.
 
 Abaixo seguem exemplos de execução via postman:
-![Testes com endereços de MG e SP](https://imgur.com/a/P29FYbE)
+![Teste com endereço de SP](https://i.imgur.com/2hrSCxZ.png)
+
+![Teste com endereço de MG](https://i.imgur.com/C6zrZj0.png)
