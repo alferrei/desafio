@@ -1,0 +1,13 @@
+  {
+    "request": {
+      "method": "GET",
+      "url": "/api/cep/03333-000"
+    },
+    "response": {
+      "status": 200,
+      "body": "{\"cep\": \"03333-000\", \"logradouro\": \"Rua da Cachoeira\", \"bairro\": \"Queda d'Agua\", \"cidade\": \"Uberlandia\", \"uf\": \"MG\"}",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
